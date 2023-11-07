@@ -2,6 +2,12 @@
 Two-Player Pong Game in Java
 A classic Pong game implementation in Java that allows two players to compete head-to-head using keyboard events, the winner is the first to get to 7 points;
 
+# What I learnt:
+<ul>
+  <li>Inheritance in Java</li>
+  <li>JavaDoc</li>
+</ul>
+
 # Game preview
 <h2>Playing</h2>
 
